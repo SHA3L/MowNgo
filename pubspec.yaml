@@ -1,0 +1,22 @@
+name: mowngo
+description: Lawn mowing business management app
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  geolocator: ^9.0.2
+  sqflite: ^2.2.5
+  path: ^1.8.3
+  provider: ^6.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
