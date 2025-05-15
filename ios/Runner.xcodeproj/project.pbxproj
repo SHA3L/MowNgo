@@ -1,0 +1,41 @@
+// !$*UTF8*$!
+{
+  archiveVersion = 1;
+  classes = {
+  };
+  objectVersion = 46;
+  objects = {
+
+/* Begin PBXProject section */
+    1D6058900D05DD3D006BFB54 /* Project object */ = {
+      isa = PBXProject;
+      attributes = {
+        LastUpgradeCheck = 1300;
+        ORGANIZATIONNAME = "";
+        TargetAttributes = {
+          1D6058910D05DD3E006BFB54 = {
+            CreatedOnToolsVersion = 13.0;
+          };
+        };
+      };
+      buildConfigurationList = 1D6058990D05DD3E006BFB54 /* Build configuration list */;
+      compatibilityVersion = "Xcode 12.0";
+      developmentRegion = en;
+      hasScannedForEncodings = 0;
+      knownRegions = (
+        en,
+        Base,
+      );
+      mainGroup = 1D60588D0D05DD3D006BFB54;
+      productRefGroup = 1D60588E0D05DD3D006BFB54 /* Products */;
+      projectDirPath = "";
+      projectRoot = "";
+      targets = (
+        1D6058910D05DD3E006BFB54 /* Runner */,
+      );
+    };
+/* End PBXProject section */
+
+  };
+  rootObject = 1D6058900D05DD3D006BFB54 /* Project object */;
+}
